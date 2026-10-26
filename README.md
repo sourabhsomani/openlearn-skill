@@ -254,23 +254,6 @@ Issues and pull requests are welcome, especially:
 - support for more languages
 - example study packs for different subjects
 
----
-
-## References
-
-- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013).
-  Improving Students' Learning With Effective Learning Techniques. *Psychological Science
-  in the Public Interest*, 14(1), 4–58.
-- Wozniak, P. (1999). *Effective learning: Twenty rules of formulating knowledge.*
-- Haladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice
-  item-writing guidelines. *Applied Measurement in Education*, 15(3), 309–334.
-- Renkl, A., Atkinson, R. K., Maier, U. H., & Staley, R. (2002). From example study to
-  problem solving: Smooth transitions help learning. *Journal of Experimental Education*.
-- Anderson, L. W., & Krathwohl, D. R. (2001). *A Taxonomy for Learning, Teaching, and
-  Assessing.*
-
----
-
 ## License
 
 [MIT](LICENSE)
